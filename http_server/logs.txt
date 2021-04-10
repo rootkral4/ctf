@@ -1,0 +1,13 @@
+2021-02-11 11:16:47.688602, Connection Accepted ('127.0.0.1', 49168)<socket.socket fd=24, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 49168)>
+2021-02-11 11:16:47.765903, Socket Closed <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:16:47.766466, GET /a.php HTTP/1.1  Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0 <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:17:01.331220, Connection Accepted ('127.0.0.1', 49174)<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 49174)>
+2021-02-11 11:17:01.351438, Socket Closed <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:17:01.353321, GET /index.html HTTP/1.1  Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0 <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:17:10.594948, Connection Accepted ('127.0.0.1', 49176)<socket.socket fd=30, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 49176)>
+2021-02-11 11:17:10.873401, Socket Closed <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:17:10.873798, GET /index.html HTTP/1.1  Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0 <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:17:11.347689, Connection Accepted ('127.0.0.1', 49178)<socket.socket fd=33, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8080), raddr=('127.0.0.1', 49178)>
+2021-02-11 11:17:11.355633, Socket Closed <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:17:11.355878, GET /favicon.ico HTTP/1.1  Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0 <socket.socket [closed] fd=-1, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0>
+2021-02-11 11:17:34.490028, Server Closed
